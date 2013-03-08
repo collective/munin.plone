@@ -11,6 +11,7 @@ class contentcreation(SimpleMultiGraph):
     title = 'Plone content creation'
     category = 'Zope'
     scales = {'min': 0, 'max': 20}
+    vlabel = "no"
 
     def config(self):
         print "graph_title %s (%s)" % (self.title, self.index)

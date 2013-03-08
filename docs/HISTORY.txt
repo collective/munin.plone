@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.2.1 - 2010/04/29
+----------------
+
+* Added graph_vlabel to please munin-update
+  [tiberiuichim]
+
 1.2 - 2010/04/29
 ----------------
 
